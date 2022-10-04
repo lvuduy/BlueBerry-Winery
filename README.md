@@ -74,7 +74,7 @@ The following are some of the two broad areas of Machine Learning methods.
 - Supervised learning
 - Unsupervised learning
 
-This project will cover Supervised Machine Learning methods, which will be a classification task.
+This project will cover Supervised Machine Learning methods with a classification task.
 
 ### Epic 2: Preparing the Data
 
