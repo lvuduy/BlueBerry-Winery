@@ -71,8 +71,8 @@ Data is used to solve real-world problems via Machine Learning algorithms, techn
 
 The following are some of the two broad areas of Machine Learning methods.
 
--Supervised learning
--Unsupervised learning
+- Supervised learning
+- Unsupervised learning
 
 This project will cover Supervised Machine Learning methods, which will be a classification task.
 
