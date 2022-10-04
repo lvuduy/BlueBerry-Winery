@@ -15,9 +15,9 @@ What are your observations?
 
 There are 3 data files:
 
-the file named winequality-red.csv contains the dataset pertaining to 1599 records of red wine samples
-the file named winequality-white.csv contains the dataset pertaining to 4898 records of white wine samples
-the file named winequality.names consists of detailed information and the data dictionary pertaining to the datasets
+- the file named winequality-red.csv contains the dataset pertaining to 1599 records of red wine samples
+- the file named winequality-white.csv contains the dataset pertaining to 4898 records of white wine samples
+- the file named winequality.names consists of detailed information and the data dictionary pertaining to the datasets
 
 The dataset contains physicochemical and sensory variables which require a bit more understanding.
 
@@ -27,11 +27,11 @@ Then use the Pandas read_csv function to read the data.
 
 Now let's start to explore the concepts of Data Wrangling on the provided dataset.
 
-print the first 10 and the last 10 records (use head() and tail() methods)
-chech the info and the shape (use info() and shape methods)
-observe if there are missing values (use isna(), isnull()
-check for Descriptive Statistics for both red and white wine datasets (use describe() method)
-Let's now group our qualities into 3 categories: low, medium and high quality wines.
+- print the first 10 and the last 10 records (use head() and tail() methods)
+- chech the info and the shape (use info() and shape methods)
+- observe if there are missing values (use isna(), isnull()
+- check for Descriptive Statistics for both red and white wine datasets (use describe() method)
+- Let's now group our qualities into 3 categories: low, medium and high quality wines.
 
 ### Epic 3: Exploratory Analysis
 
